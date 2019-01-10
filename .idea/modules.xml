@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oracle-aq/oracle-aq.iml" filepath="$PROJECT_DIR$/oracle-aq/oracle-aq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oracleaq/oracle-aq.iml" filepath="$PROJECT_DIR$/oracleaq/oracle-aq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proof-of-concepts.iml" filepath="$PROJECT_DIR$/.idea/proof-of-concepts.iml" />
+    </modules>
+  </component>
+</project>
